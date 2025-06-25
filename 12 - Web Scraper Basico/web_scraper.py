@@ -1,0 +1,1 @@
+# Web scraper básico: Extrae información (por ejemplo, titulares de noticias) de una página web simple usando librerías como requests y BeautifulSoup.

@@ -1,0 +1,1 @@
+# Automatización de archivos: Escribe un script que reorganice archivos en una carpeta, por ejemplo, moviendo todos los archivos .pdf a una carpeta "PDFs".

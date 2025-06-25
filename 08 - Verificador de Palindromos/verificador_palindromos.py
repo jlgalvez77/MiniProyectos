@@ -1,0 +1,1 @@
+# Verificador de palíndromos: Verifica si una palabra o frase es un palíndromo (se lee igual al revés).

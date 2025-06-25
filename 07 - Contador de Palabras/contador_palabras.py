@@ -1,0 +1,1 @@
+# Contador de palabras: Pide al usuario que ingrese un texto y cuenta el número de palabras.

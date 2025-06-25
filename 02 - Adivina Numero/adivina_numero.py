@@ -1,0 +1,1 @@
+# Juego de adivinar el número: El programa elige un número aleatorio y el usuario debe adivinarlo. El programa le da pistas (mayor o menor).

@@ -1,0 +1,1 @@
+# Conversor de PDF a texto: Convierte un archivo PDF en un archivo de texto plano.

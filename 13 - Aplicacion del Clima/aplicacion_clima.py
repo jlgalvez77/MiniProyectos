@@ -1,0 +1,1 @@
+# Aplicación del clima: Usa una API de clima (como OpenWeatherMap) para obtener y mostrar el pronóstico del tiempo de una ciudad.

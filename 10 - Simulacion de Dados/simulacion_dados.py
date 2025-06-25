@@ -1,0 +1,1 @@
+# Simulador de lanzamiento de dados: Simula el lanzamiento de uno o dos dados.
