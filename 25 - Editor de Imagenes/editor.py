@@ -1,0 +1,1 @@
+# Editor de imágenes básico: Realiza operaciones simples en imágenes como cambiar el tamaño, rotar o aplicar filtros básicos usando Pillow.

@@ -1,0 +1,1 @@
+# Analizador de datos de Twitter/Reddit: Analiza tweets o publicaciones de Reddit usando sus APIs para encontrar tendencias.

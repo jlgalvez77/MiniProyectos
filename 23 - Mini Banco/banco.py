@@ -1,0 +1,1 @@
+# Mini-banco: Simula operaciones bancarias básicas como depósito, retiro y consulta de saldo.

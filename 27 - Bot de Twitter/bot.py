@@ -1,0 +1,1 @@
+# Bot de Twitter/Discord/Telegram: Crea un bot que responda a comandos o publique mensajes automáticamente usando la API de la plataforma.

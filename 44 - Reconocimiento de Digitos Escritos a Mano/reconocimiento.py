@@ -1,0 +1,1 @@
+# Reconocimiento de dígitos escritos a mano: Usa un modelo de aprendizaje automático para identificar dígitos de 0 a 9.

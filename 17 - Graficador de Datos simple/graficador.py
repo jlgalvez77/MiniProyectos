@@ -1,0 +1,1 @@
+# Graficador de datos simple: Usa Matplotlib o Seaborn para crear gráficos simples (barras, líneas) a partir de datos en un archivo CSV.

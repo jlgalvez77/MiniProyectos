@@ -1,0 +1,1 @@
+# Generador de arte ASCII: Convierte una imagen en arte ASCII.

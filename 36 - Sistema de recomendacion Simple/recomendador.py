@@ -1,0 +1,1 @@
+# Sistema de recomendación simple: Recomienda películas o productos basándose en datos de usuario.

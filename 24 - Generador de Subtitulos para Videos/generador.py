@@ -1,0 +1,1 @@
+# Generador de subtítulos para videos: Crea un script que genere un archivo de subtítulos a partir de un texto.

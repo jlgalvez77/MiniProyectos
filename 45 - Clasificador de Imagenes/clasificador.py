@@ -1,0 +1,1 @@
+# Clasificador de imágenes: Entrena un modelo para clasificar imágenes en diferentes categorías (por ejemplo, perros y gatos).

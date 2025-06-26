@@ -1,0 +1,1 @@
+# Validador de contraseñas: Verifica si una contraseña cumple con ciertos criterios de seguridad (longitud, caracteres especiales, etc.).

@@ -1,0 +1,1 @@
+# Generador de texto simple: Entrena un modelo para generar texto con un estilo específico.

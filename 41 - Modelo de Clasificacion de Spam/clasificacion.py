@@ -1,0 +1,1 @@
+# Modelo de clasificación de spam: Crea un modelo de Machine Learning que clasifique correos electrónicos como spam o no spam.

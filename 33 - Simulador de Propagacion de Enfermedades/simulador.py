@@ -1,0 +1,1 @@
+# Simulador de propagación de enfermedades: Crea una simulación visual de cómo se propaga una enfermedad en una población.

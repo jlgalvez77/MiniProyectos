@@ -1,0 +1,1 @@
+# Simulador de red neuronal: Implementa una red neuronal desde cero, sin usar librerías de ML como TensorFlow o PyTorch.

@@ -1,0 +1,1 @@
+# Reconocimiento facial: Usa OpenCV para detectar caras en imágenes o en un video.

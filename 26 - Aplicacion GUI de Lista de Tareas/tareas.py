@@ -1,0 +1,1 @@
+# Aplicación GUI de lista de tareas: Recrea el proyecto de la lista de tareas con una interfaz gráfica usando Tkinter, PyQt o Kivy.

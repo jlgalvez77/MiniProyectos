@@ -1,0 +1,1 @@
+# Modelo de regresión lineal: Predice el precio de una casa o el valor de un stock usando datos históricos.

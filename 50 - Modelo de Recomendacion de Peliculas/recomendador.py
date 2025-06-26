@@ -1,0 +1,1 @@
+# Modelo de recomendación de películas: Crea un sistema que recomiende películas a los usuarios basándose en sus calificaciones.

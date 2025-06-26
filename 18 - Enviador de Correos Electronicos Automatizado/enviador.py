@@ -1,0 +1,1 @@
+# Enviador de correos electrónicos automatizado: Envía un correo electrónico desde tu cuenta de Gmail usando la librería smtplib.

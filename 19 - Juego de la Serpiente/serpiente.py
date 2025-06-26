@@ -1,0 +1,1 @@
+# Juego de la serpiente: Implementa el clásico juego de la serpiente con una interfaz gráfica básica usando Pygame o Turtle.

@@ -1,0 +1,1 @@
+# Generador de códigos QR: Crea un script que genere un código QR a partir de una URL o texto.

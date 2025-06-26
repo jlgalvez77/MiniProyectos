@@ -1,0 +1,1 @@
+# Controlador de automatización del hogar: Controla dispositivos inteligentes (por ejemplo, una bombilla inteligente) desde Python.

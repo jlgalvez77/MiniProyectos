@@ -1,0 +1,1 @@
+# Sistema de detección de objetos: Usa un modelo pre-entrenado para detectar objetos en una imagen.

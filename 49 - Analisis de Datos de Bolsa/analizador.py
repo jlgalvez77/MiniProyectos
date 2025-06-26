@@ -1,0 +1,1 @@
+# Análisis de datos de bolsa: Descarga datos de acciones y realiza un análisis técnico para predecir tendencias.

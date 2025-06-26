@@ -1,0 +1,1 @@
+# Procesador de lenguaje natural (NLP): Analiza el sentimiento de un texto usando librerías como NLTK o spaCy.

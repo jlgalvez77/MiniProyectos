@@ -1,0 +1,1 @@
+# Análisis de sentimiento de reseñas: Analiza reseñas de productos o películas para determinar si son positivas, negativas o neutrales.
