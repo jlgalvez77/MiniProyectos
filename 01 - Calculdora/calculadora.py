@@ -1,5 +1,10 @@
 # Calculadora básica: Crea una calculadora que pueda sumar, restar, multiplicar y dividir dos números.
-
+'''
+    Titulo: Calculadora básica
+    Descripción: Crea una calculadora que pueda sumar, restar, multiplicar y dividir dos números.
+    Programador: José Gálvez
+    Fecha: 06/07/2025
+'''
 print("--- Calculadora básica ---")
 
 while True:
